@@ -24,7 +24,7 @@ Prerequisites:
 To install this plugin, follow the [Command-line Interface Guide](http://cordova.apache.org/docs/en/edge/guide_cli_index.md.html#The%20Command-line%20Interface). You can use one of the following command lines:
 
 * `cordova plugin add cordova-plugin-android-idfa`
-* `cordova plugin add https://github.com/praves77/cordova-plugin-android-idfa.git`
+* `cordova plugin add https://github.com/yeahstyle/cordova-plugin-android-idfa.git`
 
 Make sure to review the Google Play Developer Program [policy](https://play.google.com/about/developer-content-policy.html#ADID) and [terms](https://play.google.com/about/developer-distribution-agreement.html#use)
 
